@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-03T10:04:28 IST" name="Default suite" finished-at="2022-03-03T10:04:34 IST" duration-ms="5141">
+    <groups>
+    </groups>
+    <test started-at="2022-03-03T10:04:28 IST" name="Default test" finished-at="2022-03-03T10:04:34 IST" duration-ms="5141">
+      <class name="restassured.apitesting.Pojoserialisation">
+        <test-method signature="serialisation()[pri:0, instance:restassured.apitesting.Pojoserialisation@3c7f66c4]" started-at="2022-03-03T10:04:29 IST" name="serialisation" finished-at="2022-03-03T10:04:34 IST" duration-ms="5031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serialisation -->
+      </class> <!-- restassured.apitesting.Pojoserialisation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
